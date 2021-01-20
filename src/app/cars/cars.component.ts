@@ -9,6 +9,7 @@ import {teslaCars} from '../../db/carsDB';
 export class CarsComponent implements OnInit {
 
   cars = teslaCars;
+
   constructor() {
   }
 
